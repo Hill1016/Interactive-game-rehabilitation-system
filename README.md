@@ -1,6 +1,6 @@
 # Livoro
 
-![圖1：系統架構圖](./images/Livoro.png)
+![圖1：系統架構圖](./images/Livoro_01.png)
 
 # 基於深度攝影機與遊戲引擎的全身性互動復健系統
 
