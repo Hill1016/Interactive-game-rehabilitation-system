@@ -102,3 +102,4 @@
 - Intel Corporation. (2021). *Intel RealSense Depth Camera D400 Series Datasheet*. Retrieved from https://www.intelrealsense.com/  
 - Lange, B., Koenig, S., Chang, C. Y., McConnell, E., Suma, E., Bolas, M., & Rizzo, A. (2012). Interactive game-based rehabilitation using the Microsoft Kinect. *IEEE Virtual Reality Workshops*, 171–172.  
 - World Health Organization. (2011). *World report on disability*. Geneva: WHO Press.  
+- Python 追蹤模組測試（參考 GitHub 開源方案程式碼： https: //github.com/beelleed/mediapipe-pose）。
