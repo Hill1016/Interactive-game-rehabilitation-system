@@ -52,7 +52,7 @@
 
 ### 已完成
 - 系統架構設計與遊戲模組規劃。  
-- Python 骨架追蹤模組測試（參考 GitHub 開源程式碼）。  
+- Python 骨架追蹤模組測試（參考 GitHub 開源程式碼:https://github.com/beelleed/mediapipe-pose ）。  
 - 深度攝影機規格比較與採購決策。  
 
 ### 進行中
